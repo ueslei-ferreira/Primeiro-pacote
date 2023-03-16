@@ -64,5 +64,3 @@ class PriceComparison():
         plt.xlabel('Product')
         plt.ylabel('Price')
         plt.show()
-pc = PriceComparison()
-pc.get_price('https://www.amazon.com.br/s?k=mouse+gamer&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DTLYP555ZJBV&sprefix=mouse+gamer%2Caps%2C186&ref=nb_sb_noss_1')
